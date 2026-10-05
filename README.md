@@ -4,7 +4,7 @@ A simulation pipeline and interactive dashboard that detects the range from a mo
 
 The pipeline simulates the full radar chain — chirp generation, propagation, receiver noise, ground clutter, CFAR detection, and Kalman-filtered tracking — then validates performance with a Monte Carlo sweep and visualizes everything in a live Streamlit dashboard.
 
-**Live dashboard:** _add your Streamlit Cloud URL here once deployed_
+**Live dashboard:** https://radar-range-fmcw-target-detection-dashboard.streamlit.app/
 
 ---
 
