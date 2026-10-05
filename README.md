@@ -32,9 +32,9 @@ signalgen.py  →  final.py  →  simulate_track.py  →  person.py  →  dashbo
 
 | Person | Role | Owns |
 |---|---|---|
-| **Person A** | Signal & Waveform | `signalgen.py` — parameter design, chirp generation, clean beat signal, range FFT validation |
-| **Sumir — Person B** | Propagation, Noise, Clutter & Detection | `final.py` — receiver noise, ground clutter, MTI filtering, CFAR detection |
-| **Udai — Person C** | Tracking, Validation & Dashboard | `person.py`, `monte_carlo.py`, `dashboard.py` — Kalman tracking, track confirmation, Monte Carlo validation, dashboard |
+| **Annika** | Signal & Waveform | `signalgen.py` — parameter design, chirp generation, clean beat signal, range FFT validation |
+| **Sumir** | Propagation, Noise, Clutter & Detection | `final.py` — receiver noise, ground clutter, MTI filtering, CFAR detection |
+| **Udai** | Tracking, Validation & Dashboard | `person.py`, `monte_carlo.py`, `dashboard.py` — Kalman tracking, track confirmation, Monte Carlo validation, dashboard |
 
 ---
 
