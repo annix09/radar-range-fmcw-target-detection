@@ -113,12 +113,12 @@ The dashboard is deployed on [Streamlit Community Cloud](https://streamlit.io/cl
 
 ```
 .
-├── signalgen.py        # Person A — waveform + clean signal
-├── final.py             # Sumir — noise, clutter, CFAR detection
-├── simulate_track.py    # multi-frame simulation loop
-├── person.py             # Udai — Kalman tracker + track confirmation
-├── monte_carlo.py        # Udai — validation sweep
-├── dashboard.py           # Udai — Streamlit dashboard
+├── signalgen.py        # Annika - waveform + clean signal
+├── final.py             # Sumir - noise, clutter, CFAR detection
+├── simulate_track.py    # Annika - multi-frame simulation loop
+├── person.py             # Udai - Kalman tracker + track confirmation
+├── monte_carlo.py        # Udai - validation sweep
+├── dashboard.py           # Udai - Streamlit dashboard
 ├── requirements.txt
 ├── runtime.txt            # pins Python version for deployment (if present)
 └── README.md
